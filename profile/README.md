@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Welcome to @withStudioCMS 👋</strong></h1>
+<h1 align="center"><strong>Welcome to @withstudiocms 👋</strong></h1>
 <p align="center">
   <strong>StudioCMS<strong> is dedicated CMS built for Astro and AstroDB (<code>@astrojs/db</code>) by the
     community for the community! Our mission is to build the best Astro-based community CMS, that is FREE
