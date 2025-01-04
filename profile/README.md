@@ -6,6 +6,11 @@
 </p>
 
 <p align="center">
+  Have something to suggest? Looking for projects to get involved in? Checkout our <a href="https://github.com/withstudiocms/roadmap">roadmap repository</a> 
+  to get started in the discussions, or help work on an RFC.
+</p>
+
+<p align="center">
   <strong>Join the adventure</strong> and become a contributor by checking out our repositories
     or joining our <a href="https://chat.studiocms.dev">Discord</a>!
 </p>
