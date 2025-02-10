@@ -1,12 +1,12 @@
 <h1 align="center"><strong>Welcome to @withstudiocms 👋</strong></h1>
 <p align="center">
-  <strong>withstudiocms</strong> is a community driven organization who's goal and overall mission is to bring
-    the best, community built tools that are free and open-source for all to use. Starting from our flagship project, StudioCMS,
-    now expanding and growing into multiple tools and utilities for the greater <a href="https://astro.build">Astro</a> eco-system!
+  <strong>withstudiocms</strong> is a community-driven organization who's goal and overall mission is to build
+    the best, free, open-source tools with the community for all to use, starting from our flagship project, StudioCMS,
+    and then expanding and growing into multiple tools and utilities for the greater <a href="https://astro.build">Astro</a> ecosystem!
 </p>
 
 <p align="center">
-  Have a suggestion? Or looking for projects to get involved in? Checkout our <a href="https://github.com/withstudiocms/roadmap">roadmap repository</a> 
+  Do you have a suggestion? Or are you looking for projects to get involved in? Check out our <a href="https://github.com/withstudiocms/roadmap">roadmap repository</a> 
   to get started in the discussions, or help work on an RFC.
 </p>
 
