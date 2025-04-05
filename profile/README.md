@@ -37,7 +37,6 @@
 | [`@studiocms/markdoc`](https://github.com/withstudiocms/studiocms/tree/main/packages/studiocms_markdoc) | [![NPM Version](https://img.shields.io/npm/v/@studiocms/markdoc?logo=npm)](https://npm.im/@studiocms/markdoc) | Add MarkDoc Support to your StudioCMS project with ease! |
 | [`@studiocms/mdx`](https://github.com/withstudiocms/studiocms/tree/main/packages/studiocms_mdx) | [![NPM Version](https://img.shields.io/npm/v/@studiocms/mdx?logo=npm)](https://npm.im/@studiocms/mdx) | Add MDX Support to your StudioCMS project with ease! |
 | [`@studiocms/wysiwyg`](https://github.com/withstudiocms/experiments/tree/main/packages/studiocms_wysiwyg) | [![NPM Version](https://img.shields.io/npm/v/@studiocms/wysiwyg?logo=npm)](https://npm.im/@studiocms/wysiwyg) | Add A WYSIWYG Editor to your StudioCMS project with ease! |
-| | | |
 
 ### Tools and Utilities
 
