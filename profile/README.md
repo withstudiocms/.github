@@ -27,7 +27,7 @@
 | [`@studiocms/cfetch`](https://github.com/withstudiocms/cfetch) | [![NPM Version](https://img.shields.io/npm/v/@studiocms/cfetch)](https://npm.im/@studiocms/cfetch) | Astro integration that provides a cache-able fetch function for Astro SSR |
 | [`@studiocms/devapps`](https://github.com/withstudiocms/studiocms/tree/main/packages/studiocms_devapps) | [![NPM Version](https://img.shields.io/npm/v/@studiocms/devapps)](https://npm.im/@studiocms/devapps) | Adds tools to the Astro dev toolbar available in Astro dev mode! |
 | [`@studiocms/markdown-remark`](https://github.com/withstudiocms/markdown-remark) | [![NPM Version](https://img.shields.io/npm/v/@studiocms/markdown-remark)](https://npm.im/@studiocms/markdown-remark) | A Markdown parser and transformer built on top of remark. It provides seamless integration with Astro through an Astro integration, allowing you to easily parse and transform Markdown content (local or remote) within your Astro projects. |
-| [`@studiocms/ui`](https://github.com/withstudiocms/ui) | [![NPM Version](https://img.shields.io/npm/v/%40studiocms%2Fui?logo=npm)](https://npm.im/@studiocms/ui) | The offcial UI library for StudioCMS. Includes the layouts & components we use to build StudioCMS. All with zero framework dependencies. |
+| [`@studiocms/ui`](https://github.com/withstudiocms/ui) | [![NPM Version](https://img.shields.io/npm/v/@studiocms/ui?)](https://npm.im/@studiocms/ui) | The offcial UI library for StudioCMS. Includes the layouts & components we use to build StudioCMS. All with zero framework dependencies. |
 
 ### StudioCMS Plugins
 
