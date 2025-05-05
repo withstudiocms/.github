@@ -18,8 +18,8 @@ Any member of the community can attain these roles, no matter their coding skill
 
 The most important things that we look for in a contributor are:
 
-* Being around - 
-* Being a positive member of the community - 
+* Being around
+* Being a positive member of the community
 
 All contributor roles are granted for as long as the individual wishes to engage with the community and project. Contributors can choose to leave the project voluntarily at any point.
 
@@ -39,7 +39,7 @@ This role is given to members of the community to have proven they have interest
 * Blogging, Vlogging, Podcasting etc. about StudioCMS
 * Similar contributions
 
-**Privileges&#x20;**
+**Privileges**
 
 * New role on Discord: `@honoured` 
 * New name color on Discord: **purple.**
@@ -74,7 +74,7 @@ There is no minimum amount of contributions needed to reach this level. You are 
 
 **Privileges**
 
-All privileges of the [Honoured Role](#level-1-honoured), plus...
+All privileges of the [Honoured Role](#level-1---honoured), plus...
 
 * New role on Discord: `@revered`
 * New name color on Discord: **pink.**
@@ -109,7 +109,7 @@ All responsibilities of the Honoured Role, plus...
 
 **Privileges**
 
-All privileges of the [Revered Role](#level-2-revered), plus...
+All privileges of the [Revered Role](#level-2---revered), plus...
 
 * `@exalted` role on Discord
 * New name color on Discord: **yellow**
