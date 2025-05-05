@@ -2,7 +2,7 @@
 
 This document outlines the governance model for StudioCMS. This includes descriptions of the various roles, the nomination processes, code review processes, and Code of Conduct enforcement.
 
-👉 **All community members must follow our&#x20;****[Code of Conduct](https://github.com/withstudiocms/.github/blob/main/CODE_OF_CONDUCT.md)****.&#x20;**&#x43;onsequences for CoC violations are detailed in the Moderation section.
+👉 **All community members must follow our [Code of Conduct](https://github.com/withstudiocms/.github/blob/main/CODE_OF_CONDUCT.md).** Consequences for CoC violations are detailed in the Moderation section.
 
 ## Involvement
 
