@@ -12,7 +12,7 @@ StudioCMS (and by extent the surrounding ecosystem) are entirely open source, me
 
 ## Contributor Roles
 
-We recognize different levels of contribution as three different **Contributor Roles.&#x20;**&#x45;ach level comes with a new set of privileges and responsibilities.
+We recognize different levels of contribution as three different **Contributor Roles.** Each level comes with a new set of privileges and responsibilities.
 
 Any member of the community can attain these roles, no matter their coding skill or experience.
 
@@ -23,8 +23,7 @@ The most important things that we look for in a contributor are:
 
 All contributor roles are granted for as long as the individual wishes to engage with the community and project. Contributors can choose to leave the project voluntarily at any point.
 
-Should a contributor violate the Code of Conduct, or should an Exalted member deem it necessary to the long term health of the community, a role can be revoked at the descretion of an Exalted member.
-
+Should a contributor violate the Code of Conduct, or should an Exalted member deem it necessary to the long-term health of the community, a role can be revoked at the discretion of an Exalted member.
 ### Level 1 - Honoured
 
 This role is given to members of the community to have proven they have interest in helping out with the project.
