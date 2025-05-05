@@ -154,7 +154,7 @@ This process starts once a valid nomination for a new Honoured member has been m
 4. The 24 hour voting period begins with the thread's creation.
 5. Voting can be done in the thread itself.
 6. Once the vote is completed, the thread is deleted.
-7. The vote must recieve an overwhelming majority (70%+) to pass.
+7. The vote must receive an overwhelming majority (70%+) to pass.
 
 If the vote passes, the nominee will be invited to the Honoured team. Should they accept, all privileges are made available to them.
 
@@ -168,7 +168,7 @@ This process starts once a valid nomination for a new Revered member has been ma
 4. The 24 hour voting period begins with the thread's creation.
 5. Voting can be done in the thread itself.
 6. Once the vote is completed, the thread is deleted.
-7. The vote must recieve an overwhelming majority (70%+) to pass.
+7. The vote must receive an overwhelming majority (70%+) to pass.
 
 If the vote passes, the nominee will be invited to the Revered team. Should they accept, all privileges are made available to them.
 
@@ -182,7 +182,7 @@ This process starts once a valid nomination for a new Exalted member has been ma
 4. The 24 hour voting period begins with the thread's creation.
 5. Voting can be done in the thread itself.
 6. Once the vote is completed, the thread is deleted.
-7. The vote must recieve an overwhelming majority (70%+) to pass.
+7. The vote must receive an overwhelming majority (70%+) to pass.
 
 If the vote passes, the nominee will be invited to the Exalted team. Should they accept, all privileges are made available to them.
 
@@ -197,7 +197,7 @@ StudioCMS features and new libraries in the ecosystem are discussed using a mode
 3. A non-trivial, significant change should be discussed within the RFC and approved during an RFC meeting call/vote. In some cases, an RFC may be approved outside of an RFC meeting using Pull Request reviews as a proxy for votes.
 4. During an RFC meeting/vote, the person leading the call/vote will attempt to achieve consensus on the RFC proposal.
 5. **If consensus is reached:** the RFC is approved.
-6. **If consensus is not reached:** The RFC author and Core members must make all reasonable attempts to resolve issues and reach consensus in GitHub or a follow-up RFC meeting. The process of reaching consensus can take time, and should not be rushed as long as all participants are making a reasonable effort to respond.
+6. **If consensus is not reached:** The RFC author and Core members must make all reasonable attempts to resolve issues and reach consensus in GitHub or a follow-up RFC meeting. The process of reaching consensus can take time, and should not be rushed as long as all participants are making a reasonable effort to respond.
 7. **If consensus still cannot be reached:** The Core team may invoke [rough consensus](https://en.wikipedia.org/wiki/Rough_consensus) to resolve an RFC that has not achieved absolute consensus, as described below (borrowed from the [IETF](https://datatracker.ietf.org/doc/html/rfc2418)):
 
 > Working groups make decisions through a "rough consensus" process. StudioCMS consensus does not require that all participants agree although this is, of course, preferred. In general, the dominant view of the the Exalted team shall prevail. (However, "dominance" is not to be determined on the basis of volume or persistence, but rather a more general sense of agreement). Consensus can be determined by a show of hands, humming, or any other means on which the the Exalted team agrees (by rough consensus, of course). Note that 51% of the the Exalted team does not qualify as "rough consensus" and 99% is better than rough. It is up to the Exalted team to determine if rough consensus has been reached.
