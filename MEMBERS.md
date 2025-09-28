@@ -13,4 +13,5 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Honoured (Support & Triage)
 
+- Armand Philippot [@ArmandPhilippot](https://github.com/ArmandPhilippot)
 - Felix Schneider [@trueberryless](https://github.com/trueberryless)
