@@ -12,3 +12,5 @@ Members are listed in alphabetical order, by first name. Members are free to use
 ## Revered (Maintainers)
 
 ## Honoured (Support & Triage)
+
+- Felix Schneider [@trueberryless](https://github.com/trueberryless)
