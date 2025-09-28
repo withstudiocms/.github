@@ -59,7 +59,7 @@ This role is given to members of the community to have proven they have interest
 
 This role is given to **Honoured members** who are interested in helping with maintaining the long-term health of the project by joining the team.
 
-**Revered members** are the first line of defence when it comes to new issues and PRs. Having said that, they do not need to write code. Revered members can also help with translations and community moderation on Discord.
+**Revered members** are the first line of defense when it comes to new issues and PRs. Having said that, they do not need to write code. Revered members can also help with translations and community moderation on Discord.
 
 **Examples of recognized contributions**
 
