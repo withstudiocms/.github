@@ -30,6 +30,6 @@
 | [`withstudiocms/markdown-remark`](https://github.com/withstudiocms/markdown-remark) | A Markdown parser and transformer built on top of remark. It provides seamless integration with Astro through an Astro integration, allowing you to easily parse and transform Markdown content (local or remote) within your Astro projects. |
 | [`withstudiocms/renovate-config`](https://github.com/withstudiocms/renovate-config) | Organization-Wide renovate preset |
 | [`withstudiocms/studiocms.dev`](https://github.com/withstudiocms/studiocms.dev) | Official Website for StudioCMS |
-| [`withstudiocms/tempaltes`](https://github.com/withstudiocms/templates) | StudioCMS project templates for our create-studiocms CLI |
+| [`withstudiocms/templates`](https://github.com/withstudiocms/templates) | StudioCMS project templates for our create-studiocms CLI |
 | [`withstudiocms/ui`](https://github.com/withstudiocms/ui) | The UI library for StudioCMS. Includes the layouts & components we use to build StudioCMS. |
 | [`withstudiocms/web-vitals`](https://github.com/withstudiocms/web-vitals) | AstroJS Webvitals, kept alive! This Astro integration enables tracking real-world website performance and storing the data in Astro DB. |

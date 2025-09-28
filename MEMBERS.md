@@ -5,7 +5,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 ## Exalted (Core Maintainers)
 
 - Adam Matthiesen [@Adammatthiesen](https://github.com/Adammatthiesen)
-- Jacob Jenkins "Jumper" [@jdtjenkins](https://github/jdtjenkins)
+- Jacob Jenkins "Jumper" [@jdtjenkins](https://github.com/jdtjenkins)
 - Louis Escher [@louisescher](https://github.com/louisescher)
 - Paul Valladares "dreyfus" [@dreyfus92](https://github.com/dreyfus92)
 
