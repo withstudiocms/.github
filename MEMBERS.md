@@ -15,3 +15,4 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 - Armand Philippot [@ArmandPhilippot](https://github.com/ArmandPhilippot)
 - Felix Schneider [@trueberryless](https://github.com/trueberryless)
+- John Memmott [@RATIU5](https://github.com/RATIU5)
