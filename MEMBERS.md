@@ -11,7 +11,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 
 ## Revered (Maintainers)
 
-## Honoured (Support & Triage)
+## Honoured (Support/Triage/Translators)
 
 - Armand Philippot [@ArmandPhilippot](https://github.com/ArmandPhilippot)
 - Felix Schneider [@trueberryless](https://github.com/trueberryless)
