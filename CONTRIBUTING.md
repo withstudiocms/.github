@@ -72,17 +72,15 @@ StudioCMS is a global project, and we want to make it accessible to everyone. If
 
 Current translation status:
 
-<img src="https://i18n.studiocms.dev/widget/studiocms/horizontal-auto.svg" alt="Translation status" />
+<img src="https://badges.awesome-crowdin.com/translation-16993424-776180-update.png" alt="Translation status" />
 
-Visit [our i18n dashboard](https://i18n.studiocms.dev) to help translate StudioCMS into your language. If your language is not listed, you can add it within the dashboard.
+Visit [our i18n dashboard](https://crowdin.com/project/studiocms) to help translate the StudioCMS packages into your language. If your language is not listed, you can add it within the dashboard.
 
-If you would prefer to contribute translations directly to the repository, the translations are stored in the [`packages/studiocms_core/src/i18n/translations`](https://github.com/withstudiocms/studiocms/tree/main/packages/studiocms_core/src/i18n/translations/) directory. You can find the English translations in the [`en-us.json`](https://github.com/withstudiocms/studiocms/blob/main/packages/studiocms_core/src/i18n/translations/en-us.json) file.
+**At this time we only support translation contributions via Crowdin.** And new translations should use the languages **International Locale** if available. Any Contribution to translation files via GitHub will be overwritten at the next Crowdin sync.
 
-<ReadMore>
-StudioCMS uses [Weblate](https://weblate.org) for managing translations on top of GitHub. If you are new to Weblate, you can find the [Translating using Weblate Guide](https://docs.weblate.org/en/latest/user/translating.html#) on their website.
-</ReadMore>
+> All StudioCMS packages use [Crowdin](https://crowdin.com/) for managing translations on top of GitHub. If you are new to Crowdin, you can find the [For Translators guide](https://support.crowdin.com/for-translators/) on their website.
 
-Once the translations have been added, they will be added to the [StudioCMS i18n configuration](https://github.com/withstudiocms/studiocms/blob/main/packages/studiocms_core/src/i18n/index.ts#L8) and will be available in the next release.
+Once the translations have been added and approved, they will be automatically added to the [StudioCMS i18n configuration](https://github.com/withstudiocms/studiocms/tree/main/packages/studiocms/src/virtuals/i18n) and will be available in the next release.
 
 ## Documentation
 
